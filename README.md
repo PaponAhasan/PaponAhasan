@@ -9,7 +9,7 @@ Coding,Swimming, Photography
 💬 Education
 B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rakibul-ahasan-100742192//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/R.Ahasan.Papon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/AhasanPapon)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/12637544/rakibul-ahasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](paponahasan.medium.com)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true)
 
 <!--
 **PaponAhasan/PaponAhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
