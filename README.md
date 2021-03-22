@@ -1,6 +1,6 @@
 ### Hi there, I'm PaponAhasan 👋
 
-💬 Hobbies
+⚡ Hobbies
 I like to ride the bicycle, swimming, and working out. I also like reading Story books, and searching on internet, and also binge watching a good hollywood Movies while it’s raining outside.
 
 ⚡ Others Interests
@@ -10,12 +10,16 @@ Coding,Swimming, Photography
 B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)  
+![Profile views](https://paponahasan.medium.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
+<!--
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PaponAhasan)  
+-->
 
 ![GitHub metrics](https://metrics.lecoq.io/PaponAhasan)  
 
