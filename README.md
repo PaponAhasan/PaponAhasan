@@ -11,6 +11,10 @@ B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
+<img alt="Laravel" src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical)
 
 <!--
