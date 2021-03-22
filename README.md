@@ -11,7 +11,7 @@ B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=prussian)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan)](https://github.com/anuraghazra/github-readme-stats)
