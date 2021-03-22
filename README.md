@@ -9,8 +9,7 @@ Coding,Swimming, Photography
 💬 Education
 B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
-![Profile views](https://gpvc.arturio.dev/PaponAhasan)  
-![Profile views](https://paponahasan.medium.com/)
+![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true)
 
@@ -20,9 +19,9 @@ B.Sc. in computer science, From BUBT Uniersity, Dhaka
 <!--
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PaponAhasan)  
 -->
-
+<!--
 ![GitHub metrics](https://metrics.lecoq.io/PaponAhasan)  
-
+-->
 <!--
 **PaponAhasan/PaponAhasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
