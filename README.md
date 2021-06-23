@@ -33,12 +33,11 @@ Languages and Tools:
 <details>
   <summary>:zap: GitHub Stats</summary>
        
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical)
-<!--   <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" /> -->
+  <img align="left" alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical) -->
 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
