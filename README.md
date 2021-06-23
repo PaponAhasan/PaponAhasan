@@ -37,6 +37,13 @@ Languages and Tools:
 
 </details>
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan" />
+
+</details>
+
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical) -->
 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
