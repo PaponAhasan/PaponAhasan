@@ -1,5 +1,7 @@
 ### Hi there, I'm PaponAhasan 👋
 
+<img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="500" height="320" />
+
 **Connect with me:**
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&logo=Twitter&url=https%3A%2F%2Ftwitter.com%2FAhasanPapon)
