@@ -45,7 +45,7 @@ Languages and Tools:
 </details>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical) -->
-<br />
+
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
 <!--
