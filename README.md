@@ -33,14 +33,14 @@ Languages and Tools:
 <details>
   <summary>:zap: GitHub Stats</summary>
    <br />    
-  <img align="left" alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" />
+  <img  alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
-   <br />  
+ 
 <details>
   <summary>:zap: Most Used Languages</summary>
   <br />
-  <img align="left" alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
+  <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
 
 </details>
    <br />  
