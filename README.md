@@ -1,4 +1,6 @@
 ### Hi there, I'm PaponAhasan 👋
+
+Connect with me: 
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&logo=Twitter&url=https%3A%2F%2Ftwitter.com%2FAhasanPapon)
 -->
@@ -10,7 +12,7 @@ Others Interests: Coding,Swimming,Cricket,Photography
 
 Education: B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
-Interest :
+Languages and Tools:
 
 <!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> --> 
 
