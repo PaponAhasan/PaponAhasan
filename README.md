@@ -10,7 +10,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AhasanPapon)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCDxZiewwjTrjmhsLNz-aO9w)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/R.Ahasan.Papon)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shipu.shipu)
 <!--
 ![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&logo=Twitter&url=https%3A%2F%2Ftwitter.com%2FAhasanPapon)
 -->
