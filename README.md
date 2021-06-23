@@ -32,20 +32,20 @@ Languages and Tools:
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-       
+   <br />    
   <img align="left" alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan" />
+  <br />
+  <img align="left" alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
 
 </details>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&theme=radical) -->
-
+<br />
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
 <!--
