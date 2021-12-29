@@ -14,7 +14,7 @@
 
 **Hobbies:** I like to ride the bicycle, cooking, swimming, and working out. I also like reading Story books, and searching on internet, and also binge watching a good hollywood Movies while it’s raining outside.
 
-**Others Interests:** Coding,Swimming,Cricket,Photography
+**Others Interests:** Coding,Solving puzzles, Swimming,Cricket,Photography
 
 **Education:** B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
