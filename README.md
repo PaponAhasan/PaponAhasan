@@ -17,7 +17,9 @@
 **Others Interests:** `Problem Solving`, `Research,Planning`,`Travelling`, `Swimming`, `Cricket` , `Reading blogs`
 
 **Education:** B.Sc. in computer science, From BUBT Uniersity, Dhaka
+
 **Expertise in :** 
+- da
     - `Competitive Programming`
     - `Data structure & Algorithm`
     - `Android Development`
