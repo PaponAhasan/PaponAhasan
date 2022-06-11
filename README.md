@@ -14,11 +14,11 @@
 
 **Hobbies:** I like to  writing/blogging, ride the bicycle, cooking, swimming, and working out. I also like reading Story books, and searching on internet, and also binge watching a good hollywood Movies while it’s raining outside.
 
-**Others Interests:** `Problem Solving`, `Research,Planning`,`Travelling`, `Swimming`, `Cricket` , `Reading blogs`
+**Others Interests: ** `Problem Solving`, `Research,Planning`,`Travelling`, `Swimming`, `Cricket` , `Reading blogs`
 
-**Education:** B.Sc. in computer science, From BUBT Uniersity, Dhaka
+**Education: ** B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
-**Expertise in :** 
+Expertise in :
 
     - `Competitive Programming`
     - `Data structure & Algorithm`
