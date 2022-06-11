@@ -20,7 +20,6 @@
 
 **Expertise in :** 
 
-    -
     - `Competitive Programming`
     - `Data structure & Algorithm`
     - `Android Development`
