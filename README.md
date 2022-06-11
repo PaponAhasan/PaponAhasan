@@ -19,6 +19,7 @@
 **Education:** B.Sc. in computer science, From BUBT Uniersity, Dhaka
 
 **Expertise in :** 
+
     - `Competitive Programming`
     - `Data structure & Algorithm`
     - `Android Development`
