@@ -12,7 +12,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/R.Ahasan.Papon)
 
 
-**Hobbies :** I like to  `writing/blogging`, `ride the bicycle`, `cooking`, `swimming`, and `working out`. I also like `reading Story books`, and `searching on internet`, and also binge `watching a good hollywood Movies` while it’s `raining outside`.
+**Hobbies :** I like to  writing/blogging, ride the bicycle, cooking, swimming, and working out. I also like reading Story books, and searching on internet, and also binge watching a good hollywood Movies while it’s raining outside.
 
 **Others Interests :** `Problem Solving`, `Research,Planning`,`Travelling`, `Swimming`, `Cricket` , `Reading blogs`
 
