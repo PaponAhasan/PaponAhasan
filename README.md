@@ -27,12 +27,15 @@ Email :  ahasan.papon@gmail.com
 > Competitive Programming <br/>
 > Data structure & Algorithm <br/>
 > Linux <br/>
-> SQL <br/>
+> MySQL <br/>
+> MongoDB <br/>
 > OOP <br/>
 > Git & GitHub <br/>
 > Php & Laravel <br/>
-> Basics Python <br/>
-> Basics React.js
+> API Integration like Facebook,Google, SMS and Payment Gateway <br/>
+> Microservices, REST API <br/>
+> React.js <br/>
+> Basics Python
      
 **Languages and Tools:** </br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
