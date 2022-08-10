@@ -16,14 +16,14 @@
 
 **Education :** B.Sc. in computer science, From BUBT Uniersity, Dhaka -->
 
-Name:   rakibul ahasan
+Name :   Rakibul Ahasan
 
 
-Email: ahasan.papon@gmail.com
+Email :  ahasan.papon@gmail.com
 
 <br/><br/><br/>
 
-Expertise in :
+#### Expertise in :
 
 > Competitive Programming <br/>
 > Data structure & Algorithm <br/>
