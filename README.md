@@ -1,6 +1,6 @@
 ### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="300" /></a>
 
-**Connect with me:**
+**Connect with me :**
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ahasan.papon/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-ahasan-100742192/)
@@ -20,16 +20,15 @@
 
 Expertise in :
 
-     Competitive Programming
-     Data structure & Algorithm
-     Android Development
-     Linux
-     SQL
-     OOP
-     Git & GitHub
-     Php & Laravel
-     Basics Python
-     Basics Vue.js
+>     Competitive Programming
+>     Data structure & Algorithm
+>     Linux
+>     SQL
+>     OOP
+>     Git & GitHub
+>     Php & Laravel
+>     Basics Python
+>     Basics React.js
      
 **Languages and Tools:** </br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
