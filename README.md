@@ -50,8 +50,10 @@ Expertise in :
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-   <br />    
-  <img  alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" />
+   <br />
+   <img  src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PaponAhasan&theme=tokyonight&hide_border=true" width="49%" >
+<!--    <img  alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" /> -->
 
 </details>
  
