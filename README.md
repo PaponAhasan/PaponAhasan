@@ -22,8 +22,6 @@ Description :  Software Engineer
 
 Email :  ahasan.papon@gmail.com
 
-<br/>
-
 #### Expertise in :
 
 > Competitive Programming <br/>
