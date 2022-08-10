@@ -1,4 +1,4 @@
-### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="250" /></a>
+### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="300" /></a>
 
 **Connect with me:**
 
@@ -16,8 +16,7 @@
 
 **Education :** B.Sc. in computer science, From BUBT Uniersity, Dhaka -->
 
-<br/>
-<br/>
+<br/><br/><br/>
 
 Expertise in :
 
