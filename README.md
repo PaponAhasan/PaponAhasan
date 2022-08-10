@@ -20,15 +20,15 @@
 
 Expertise in :
 
->     Competitive Programming
->     Data structure & Algorithm
->     Linux
->     SQL
->     OOP
->     Git & GitHub
->     Php & Laravel
->     Basics Python
->     Basics React.js
+> Competitive Programming
+> Data structure & Algorithm
+> Linux
+> SQL
+> OOP
+> Git & GitHub
+> Php & Laravel
+> Basics Python
+> Basics React.js
      
 **Languages and Tools:** </br></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -48,6 +48,7 @@ Expertise in :
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <details>
+     
   <summary>:zap: GitHub Stats</summary>
    <br />
    <img  src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
@@ -57,6 +58,7 @@ Expertise in :
 </details>
  
 <details>
+     
   <summary>:zap: Most Used Languages</summary>
   <br />
   <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
