@@ -18,13 +18,11 @@
 
 Name :   Rakibul Ahasan
 
+Description :  Software Engineer
 
 Email :  ahasan.papon@gmail.com
 
-
-Description :  Software Enginee
-
-<br/><br/>
+<br/>
 
 #### Expertise in :
 
