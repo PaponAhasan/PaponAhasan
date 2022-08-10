@@ -20,14 +20,14 @@
 
 Expertise in :
 
-> Competitive Programming
-> Data structure & Algorithm
-> Linux
-> SQL
-> OOP
-> Git & GitHub
-> Php & Laravel
-> Basics Python
+> Competitive Programming <br/>
+> Data structure & Algorithm <br/>
+> Linux <br/>
+> SQL <br/>
+> OOP <br/>
+> Git & GitHub <br/>
+> Php & Laravel <br/>
+> Basics Python <br/>
 > Basics React.js
      
 **Languages and Tools:** </br></br>
