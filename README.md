@@ -77,6 +77,4 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
-<img src="./asset/react-dark.svg" height=250 alt="graph"/>
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PaponAhasan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
