@@ -27,7 +27,7 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 #### Expertise in :
 
 > Android <br/>
-> Kotlin and Java
+> Kotlin and Java <br/>
 > Competitive Programming <br/>
 > Data structure & Algorithm <br/>
 > Linux <br/>
