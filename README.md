@@ -28,7 +28,7 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 
 > Android <br/>
 > Kotlin and Java <br/>
-> Firebase
+> Firebase <br/>
 > Competitive Programming <br/>
 > Data structure & Algorithm <br/>
 > Linux <br/>
