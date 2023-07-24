@@ -1,14 +1,16 @@
 ### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="300" /></a>
 
 **Connect with me :**
-
+<!--
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ahasan.papon/)
+-->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-ahasan-100742192/)
+<!--
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.facebook.com/Programming-Info-104849895175821)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AhasanPapon)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCDxZiewwjTrjmhsLNz-aO9w)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/R.Ahasan.Papon)
-
+-->
 
 <!-- **Hobbies :** I like to  writing/blogging, ride the bicycle, cooking, swimming, and working out. I also like reading Story books, and searching on internet, and also binge watching a good hollywood Movies while it’s raining outside.
 
