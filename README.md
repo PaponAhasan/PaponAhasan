@@ -1,7 +1,8 @@
-### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://github.com/shameemreza/shameemreza/blob/master/code.gif?raw=true" width="300" /></a>
+### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://raw.githubusercontent.com/PaponAhasan/PaponAhasan/main/folder.png?raw=true" width="300" /></a>
 
 **Connect with me :**
 <!--
+https://github.com/shameemreza/shameemreza/blob/master/code.gif
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ahasan.papon/)
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-ahasan-100742192/)
@@ -78,6 +79,8 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 </details>
    <br />  
 
+<!-- 
 ![Profile views](https://gpvc.arturio.dev/PaponAhasan)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PaponAhasan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+ -->
