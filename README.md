@@ -61,9 +61,10 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
+<img  alt="Rakibul Ahasan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PaponAhasan&show_icons=true&hide_border=true&theme=radical" />  
+
 <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />  
 
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PaponAhasan&theme=tokyonight&hide_border=true" width="49%" >
 
 <!--
 <details>
@@ -81,6 +82,8 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
   <summary>:zap: Most Used Languages</summary>
   <br />
   <img  alt="Rakibul Ahasan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaponAhasan&theme=radical" />
+
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PaponAhasan&theme=tokyonight&hide_border=true" width="49%" >
 
 </details>
    <br />  
