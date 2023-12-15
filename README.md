@@ -106,10 +106,10 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 </div>
 
  <div id="badges">
-   <a href="https://www.linkedin.com/in/ahmed-shamim">
+   <a href="https://www.linkedin.com/in/rakibul-ahasan-100742192/">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   <a href="https://twitter.com/me_shaon">
+   <a href="https://twitter.com/PaponAhasan">
       <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
 
