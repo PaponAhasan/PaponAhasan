@@ -94,3 +94,27 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PaponAhasan&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
  -->
+
+<h1 align="center">Hi There, I'm Rakibul Ahasan 👋</h1>
+
+<h3 align="center">A Android Developer from 🇧🇩 </h3>
+<br/>
+<div align="center">
+
+![Ahmed](gitartwork.svg)
+
+</div>
+
+ <div id="badges">
+   <a href="https://www.linkedin.com/in/ahmed-shamim">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://twitter.com/me_shaon">
+      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+
+   <img  align="right" src="https://komarev.com/ghpvc/?username=PaponAhasan&label=Profile%20views&color=green&style=flat" alt="PaponAhasan" />
+   <a align="right" href="https://github.com/ferasbbm?tab=followers">
+      <img  align="right" src="https://img.shields.io/github/followers/PaponAhasan?username=PaponAhasan&label=Followers" alt="PaponAhasan" />
+   </a>
+</div>
