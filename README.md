@@ -101,7 +101,7 @@ Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 <br/>
 <div align="center">
 
-![Ahmed](gitartwork.svg)
+![Ahasan](gitartwork.svg)
 
 </div>
 
