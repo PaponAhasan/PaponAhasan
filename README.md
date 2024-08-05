@@ -1,25 +1,18 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/mhasancse15)
 
 ### Hi there, I'm Rakibul Ahasan 👋<a target="_blank" href="#"><img align="right" alt="GIF" src="https://raw.githubusercontent.com/PaponAhasan/PaponAhasan/main/folder.png?raw=true" width="300" /></a>
+<h3 align="center">A passionate Mobile Application developer from Bangladesh</h3>
 
+<p align="center">Software developer with expertise in Android application development. Have experience of designing and implementing scalable apps with over 1M downloads from scratch. Have experience of leading and mentoring a team of mobile developers.</p>
+
+<p align="center"> <img
+                src="https://komarev.com/ghpvc/?username=vmhasancse15&label=Profile%20views&color=0e75b6&style=flat"
+                alt="PaponAhasan" /> </p>
+                
 **Connect with me :**
-<!--
-https://github.com/shameemreza/shameemreza/blob/master/code.gif
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ahasan.papon/)
--->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rakibul-ahasan-100742192/)
-<!--
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.facebook.com/Programming-Info-104849895175821)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AhasanPapon)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCDxZiewwjTrjmhsLNz-aO9w)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/R.Ahasan.Papon)
--->
 
-<!-- **Hobbies :** I like to  writing/blogging, ride the bicycle, cooking, swimming, and working out. I also like reading Story books, and searching on internet, and also binge watching a good hollywood Movies while it’s raining outside.
 
-**Others Interests :** `Problem Solving`, `Research`, `Planning`, `Travelling`, `Swimming`, `Cricket`, `Reading blogs`
-
-**Education :** B.Sc. in computer science, From BUBT Uniersity, Dhaka -->
 
 Name :   Rakibul Ahasan
 
@@ -29,6 +22,20 @@ Email :  ahasan.papon@gmail.com
 
 Portfolio : [rakibulahasan.portfolio.io](https://paponahasan.github.io)
 
+<h3 align="left">Tech Skills: Android</h3>
+
+- Kotlin, Java
+- Views, Jetpack Compose
+- Material Design
+- Modern Android Development | MAD
+- Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
+- Flows, Coroutines, RxJava, RxKotlin
+- MVVM, MVP, MVI, VIPER, Modular
+- DI, Dagger2, Hilt, Koin
+- Animations, MotionLayout, Lottie
+- Kotlin Extensions (Ktx)
+- 3rd Party Libraries (Agora SDK, Agora RTM, Agora RTC, Faceunity SDK, Retrofit, Moshi, Gson, Glide, Picasso, Coil, EasyPermissions, EventBus, Timber, ...)
+  
 #### Expertise in :
 
 > Android <br/>
