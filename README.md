@@ -11,17 +11,17 @@
 
 <h3 align="left">Tech Skills: Android</h3>
 
-> Kotlin, Java
-> Views, Jetpack Compose
-> Material Design
-> Modern Android Development | MAD
-> Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager
-> Flows, Coroutines, RxJava, RxKotlin
-> MVVM, MVP, MVI, VIPER, Modular
-> DI, Dagger2, Hilt, Koin
-> Animations, MotionLayout, Lottie
-> Kotlin Extensions (Ktx)
-> 3rd Party Libraries (Agora SDK, Agora RTM, Agora RTC, Faceunity SDK, Retrofit, Moshi, Gson, Glide, Picasso, Coil, EasyPermissions, EventBus, Timber, ...)
+> Kotlin, Java  
+> Views, Jetpack Compose  
+> Material Design  
+> Modern Android Development | MAD  
+> Architecture Components | LifeCycle, ViewModel, LiveData, DataBinding, Room, Navigation, Paging, WorkManager  
+> Flows, Coroutines, RxJava, RxKotlin  
+> MVVM, MVP, MVI, VIPER, Modular  
+> DI, Dagger2, Hilt, Koin  
+> Animations, MotionLayout, Lottie  
+> Kotlin Extensions (Ktx)  
+> 3rd Party Libraries (Agora SDK, Agora RTM, Agora RTC, Faceunity SDK, Retrofit, Moshi, Gson, Glide, Picasso, Coil, EasyPermissions, EventBus, Timber, ...)  
   
 #### Expertise in :
 
