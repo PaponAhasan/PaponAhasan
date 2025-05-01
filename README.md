@@ -51,7 +51,7 @@
                         src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
         <a href="https://www.linkedin.com/in/rakibul-ahasan-100742192/"><img alt="linkedin" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
-        <a href="https://paponahasan.github.io"><img alt="portfolio" width="10%" style="padding:5px"
+        <a href="https://medium.com/me/stories/public"><img alt="portfolio" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/about.png" /></a>
         <a href="ahasan.papon@gmail.com"><img alt="portfolio" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/email.png" /></a>                
